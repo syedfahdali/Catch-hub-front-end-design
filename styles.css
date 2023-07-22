@@ -1,0 +1,248 @@
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    
+}
+
+#firstpage ,#secondpage, #thirdpage {
+    background-image:url("./assets/greygradient/vecteezy_abstract-white.jpg") ;
+    background-repeat: no-repeat;
+    box-shadow: inset 0px 0px 40px 40px #d4d4d2; /* change to alter the effect*/
+    position: relative;
+}
+#secondpage{
+    max-width: 1920px;
+    background-size: 1920px 2000px;
+}
+#div1{
+    display: flex;
+    flex-direction: row;
+}
+#div2{
+    display: flex;
+    flex-direction: row;    
+    position: relative;
+    margin-top: 0px;
+}
+#logo{
+    height:200px ;
+    width: 400px;
+    object-position:left  top;
+    margin-left:200px;
+    position: relative;
+    left: 60px;
+    margin-top: 180px;
+}
+#top-screens{
+    object-position: top right;
+    position: relative;
+    height: 800px;
+    width: 1000px;
+    top: 100px;
+   
+    left: -800px;
+    
+}
+
+#app_store{
+    height:100px;
+    width: 200px;
+    position: relative;
+    top: -250px;
+    margin-left: 20px;
+}
+#para{
+    color: black;
+    
+}
+#play_store{
+
+    height:100px;
+    width: 200px;
+    position: relative;
+    top: -250px;
+    margin-left: 270px;
+    
+       
+}
+#Logotext{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 370px;
+    position: relative;
+    left: -420px;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+#firstPageText{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 420px;
+    position: relative;
+    left: -950px;
+    font-weight: thin;
+    font-size: 27px;
+    color:rgb(98, 95, 95);
+}
+#secondPageSpan{
+    display: flex;
+    flex-direction: row;
+}
+#secondPageSpan2{
+    display: flex;
+    flex-direction: row;
+}
+#sec_screens{
+    height: 900px;
+    width: 750px;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+#channels{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    top:280px;
+    left: 400px;
+    letter-spacing: 10px;
+    
+
+}
+.secondPageText{
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight:bold;
+
+    color:rgb(75, 75, 75);
+    position: relative;
+    /* align-items: center;
+    justify-content: center; */
+    top: 400px;
+    left: -60px;
+    line-height: 10px;
+    text-align: center;
+
+}
+#messages{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    top:-30px;
+    left: 380px;
+    letter-spacing: 10px;
+    
+}
+#thhh_screens{
+    height:700px;
+    width:700px;
+    position: relative;
+    left:220px; ;
+    top: -250px;
+}
+.secondPageText2{
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight:bold;
+
+    color:rgb(75, 75, 75);
+    position: relative; 
+    line-height: 10px;
+    text-align: center;
+    left: -30px;
+    top: 100px;
+
+}
+#thirdpagespan{
+    display: flex;
+    flex-direction: row;
+
+}
+#for_screens{
+    position: relative;
+    height: 900px;
+    width: 750px;
+    margin-left: 80px;    
+}
+
+#vectors{
+    width: 900px;
+    height: 100px;
+    position: relative;
+    top: 120px;
+    left: -180px;
+}
+#future{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    letter-spacing: 8px;
+    top: 250px;
+    right: 630px;
+}
+.thirdpagetext{
+    font-family: 'Roboto';
+    position: relative;
+
+    top: 350px;
+    right: 1000px;
+    font-weight: bold;
+    font-size: 40px;
+    color:rgb(45,45,45);
+    line-height: 10px;
+    text-align: center;
+
+
+}
+#clickhere{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: thin;
+    color: rgb(57, 57, 57);
+    font-size: 30px;
+    position: relative;
+    left: 750px;
+}   
+#playappspan{
+    display: flex;
+    flex-direction: row;
+}
+
+#play-store-image-2{
+    height:100px;
+    width: 200px;
+    position: relative;
+    margin-left: 690px;
+    
+}
+#app-store-image-2{
+    height:100px;
+    position: relative;
+    margin-left: 20px;
+    width: 200px;
+}
+#contact-us{
+    
+    text-decoration: none;
+    color:rgb(77,164,255);
+    
+}
+#contact{
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    font-weight: thin;
+    color: rgb(45,45,45);
+    font-size: 20px;
+    word-spacing: 6px;
+    left:700px;
+    
+    
+}
+#paratude{
+    position: relative;
+    left: 840px;
+}
